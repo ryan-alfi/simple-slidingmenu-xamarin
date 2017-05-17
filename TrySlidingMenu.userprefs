@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{0E67CDA8-2D28-4912-A820-32D9365305EB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrySlidingMenu/TrySlidingMenuPage.xaml.cs">
+    <Files>
+      <File FileName="TrySlidingMenu/TrySlidingMenuPage.xaml" Line="5" Column="28" />
+      <File FileName="TrySlidingMenu/TrySlidingMenuPage.xaml.cs" Line="17" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TrySlidingMenu.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1BDB91FC-6E52-4A4E-A0EF-764B9759ABD0" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TrySlidingMenu.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MultiItemStartupConfigurations />
+</Properties>
